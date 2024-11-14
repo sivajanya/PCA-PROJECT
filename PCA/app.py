@@ -66,4 +66,3 @@ if __name__ == '__main__':
         os.makedirs(app.config['COMPRESSED_FOLDER'])
     
     app.run(host='0.0.0.0', port=5050)
-
